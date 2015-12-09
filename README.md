@@ -1,5 +1,9 @@
 # grunt-iojs-api-docs
 
+# DEPRECATED!
+
+# Now use: https://www.npmjs.com/package/grunt-node-api-docs-responsive
+
 > Generate HTML files from io.js API Docs
 
 ## Getting Started
