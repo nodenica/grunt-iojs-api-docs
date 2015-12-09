@@ -1,6 +1,6 @@
 {
   "name": "grunt-iojs-api-docs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate HTML files from io.js API Docs",
   "homepage": "https://github.com/nodenica/grunt-iojs-api-docs.git",
   "repository": "https://github.com/nodenica/grunt-iojs-api-docs.git",
